@@ -1,13 +1,13 @@
 # Discord-Report-Bot
 ----------
 ## Mass Report A discord message, ban anyone.
-## Download latest .exe [here](l)
+## Download latest .exe [here](https://github.com/xokaori/Discord-Report-Bot/releases/tag/REPORT)
 ### using [Leaf.xNet](https://github.com/csharp-leaf/Leaf.xNet), we are able to spam discord's report api.
 
 [![Github All Releases](https://img.shields.io/github/downloads/fknMega/Discord-Report-Bot/total.svg)]()
 
 
-Download the latest exe [here](l)
+Download the latest exe [here](https://github.com/xokaori/Discord-Report-Bot/releases/tag/REPORT)
 
 ### Type in reason a number:
 - 1 - Illegal Content
