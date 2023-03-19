@@ -4,7 +4,7 @@
 ## Download latest .exe [here](https://github.com/xokaori/Discord-Report-Bot/releases/tag/REPORT)
 ### using [Leaf.xNet](https://github.com/csharp-leaf/Leaf.xNet), we are able to spam discord's report api.
 
-[![Github All Releases](https://img.shields.io/github/downloads/fknMega/Discord-Report-Bot/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/fknMega/Auto-doxxing-tool/total.svg)]()
 
 
 Download the latest exe [here](https://github.com/xokaori/Discord-Report-Bot/releases/tag/REPORT)
